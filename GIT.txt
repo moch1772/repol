@@ -1,5 +1,5 @@
-GIT
-Måltjänst
+GIT	STOR ÄNDRING
+JAG GÖR VAD VILL
 Man låggar
 Filen på nätet håller koll på vad som har hänt med den (Historik)
 Man kan uppdatera till en tidigare version
@@ -9,9 +9,3 @@ cd /
 cd repol
 //
 GIT TEST GIT TEST
-asbmamfb
-sdbnkjöna
-nKJFNB
-HADFB
-BACON SODA
-danvbnkvarn oba   gas gö äöasägö äöasäg äas g
