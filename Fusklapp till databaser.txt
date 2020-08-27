@@ -1,0 +1,7 @@
+NÅ DATABAS GENOM CMD
+cd/
+cd xampp
+cd mysql
+cd bin
+mysql -u root
+Show databases;

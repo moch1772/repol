@@ -1,0 +1,11 @@
+GIT
+Måltjänst
+Man låggar
+Filen på nätet håller koll på vad som har hänt med den (Historik)
+Man kan uppdatera till en tidigare version
+
+cd /
+// första gången mkdir repol
+cd repol
+//
+GIT TEST GIT TEST
